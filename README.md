@@ -24,8 +24,11 @@ Through these challenges, the project serves as an educational experience in adv
               <img src="Images/Power Plane.jpg" width="500"/>
 - **Bottom Layer**: Reserved for secondary signals and routing low-priority traces.
               <img src="Images/Bottom Layer.jpg" width="500"/>
+- **3D View**: Reserved for secondary signals and routing low-priority traces.
+              <img src="Images/3D Top.jpg" width="500"/>
+              <img src="Images/3D Bottom.jpg" width="500"/>
+              <img src="Images/E1_View.jpg" width="500"/>
 
-*(Insert images or diagrams of each PCB layer here)*
 
 ---
 
