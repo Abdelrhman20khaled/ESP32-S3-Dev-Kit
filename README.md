@@ -14,14 +14,16 @@ Through these challenges, the project serves as an educational experience in adv
 
 ## 2. Layers Pictures
 ### Layer Breakdown
+- **Top Overlay**: Contains the silkscreen, and designators for each element
+              <img src="Images/Topoverlay.jpg" width="500"/>
 - **Top Layer**: Includes critical signal traces, high-speed differential pairs, and key components.
-- <img src="Images/Top Layer.jpg" width="500"/>
+              <img src="Images/Top Layer.jpg" width="500"/>
 - **Inner Layer 1 (Ground Plane)**: A complete ground plane for signal return paths and noise suppression.
-- - <img src="Images/GND Layer.jpg" width="500"/>
+              <img src="Images/GND Layer.jpg" width="500"/>
 - **Inner Layer 2 (Power Plane)**: Dedicated to stable power distribution for minimal noise.
-- - <img src="Images/Power Plane Layer.jpg" width="500"/>
+              <img src="Images/Power Plane.jpg" width="500"/>
 - **Bottom Layer**: Reserved for secondary signals and routing low-priority traces.
-- <img src="Images/Bottom Layer.jpg" width="500"/>
+              <img src="Images/Bottom Layer.jpg" width="500"/>
 
 *(Insert images or diagrams of each PCB layer here)*
 
