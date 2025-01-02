@@ -15,19 +15,19 @@ Through these challenges, the project serves as an educational experience in adv
 ## 2. Layers Pictures
 ### Layer Breakdown
 - **Top Overlay**: Contains the silkscreen, and designators for each element
-              <img src="Images/Overlay.jpg" width="500"/>
+              <img src="Images/Overlay.png" width="500"/>
 - **Top Layer**: Includes critical signal traces, high-speed differential pairs, and key components.
-              <img src="Images/Top_Layer.jpg" width="500"/>
+              <img src="Images/Top_Layer.png" width="500"/>
 - **Inner Layer 1 (Ground Plane)**: A complete ground plane for signal return paths and noise suppression.
-              <img src="Images/GND_Layer.jpg" width="500"/>
+              <img src="Images/GND_Layer.png" width="500"/>
 - **Inner Layer 2 (Power Plane)**: Dedicated to stable power distribution for minimal noise.
-              <img src="Images/Power_Layer.jpg" width="500"/>
+              <img src="Images/Power_Layer.png" width="500"/>
 - **Bottom Layer**: Reserved for secondary signals and routing low-priority traces.
-              <img src="Images/Bottom_Layer.jpg" width="500"/>
+              <img src="Images/Bottom_Layer.png" width="500"/>
 - **3D View**: Reserved for secondary signals and routing low-priority traces.
-              <img src="Images/3D_TOP.jpg" width="500"/>
-              <img src="Images/3D_Bottom.jpg" width="500"/>
-              <img src="Images/3D_Ele.jpg" width="500"/>
+              <img src="Images/3D_TOP.png" width="500"/>
+              <img src="Images/3D_Bottom.png" width="500"/>
+              <img src="Images/3D_Ele.png" width="500"/>
 
 
 ---
