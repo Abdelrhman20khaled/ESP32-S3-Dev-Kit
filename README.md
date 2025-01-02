@@ -48,7 +48,7 @@ Through these challenges, the project serves as an educational experience in adv
 ### 3.4 Logical Level Conversion
 - Used N-channel MOSFETs for logical level shifting.
 - Gained understanding of pull-up resistors and the operation of MOSFETs in level translation applications.
-
+<img src="Images/logoc_converter_3.3V_5V.jpg" width="500"/>
 ---
 
 ## 4. Usage of This Board
